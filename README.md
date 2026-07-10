@@ -8,7 +8,6 @@ Repositorio de soluciones para los ejercicios del segundo parcial de Análisis y
   * Daniel Bolívar (Código: 2178545-2724)
   * Jeremy Astaiza (Código: 2415667-2724)
 * **Institución:** Universidad del Valle
-* **Repositorio Principal:** [ADA_exercises_2](https://github.com/JeremyAs15/ADA_exercises_2)
 
 # Soluciones
 En las carpetas contenidas en este repositorio se encuentra cada una de las soluciones de los ejercicios.
