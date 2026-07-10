@@ -3,30 +3,23 @@
 # Solution of problem: "Tree: Huffman Decoding" HackerRank https://www.hackerrank.com/challenges/tree-huffman-decoding/problem
 from encode.encode import init
 
-class Node:
-    def __init__(self, freq, data):
-        self.freq = freq
-        self.data = data
-        self.left = None
-        self.right = None
-
 def decodeHuff(root, s):
-    current = root
-    decoded = ""
+    current = root                                              # O(1)
+    decoded = ""                                                # O(1)
 
-    for bit in s:
+    for bit in s:                                               # O(n)
 
-        if bit == '0':
-            current = current.left
+        if bit == '0':                                          # O(1)
+            current = current.left                              # O(1)
         else:
-            current = current.right
+            current = current.right                             # O(1)
 
         # Si es una hoja
-        if current.left is None and current.right is None:
-            decoded += current.data
-            current = root
+        if current.left is None and current.right is None:      # O(1)
+            decoded += current.data                             # O(1)
+            current = root                                      # O(1)
 
-    return decoded
+    return decoded                                              # O(1)
 
 ''' 
 ===========================================
