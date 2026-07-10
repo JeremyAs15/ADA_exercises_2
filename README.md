@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADA Ejercicios Parcial 2
 
 Repositorio de soluciones para los ejercicios del segundo parcial de Análisis y Diseño de Algoritmos (ADA).
@@ -10,10 +11,10 @@ Repositorio de soluciones para los ejercicios del segundo parcial de Análisis y
 * **Institución:** Universidad del Valle
 * **Repositorio Principal:** [ADA_exercises_2](https://github.com/JeremyAs15/ADA_exercises_2)
 
----
+# Soluciones
+En las carpetas contenidas en este repositorio se encuentra cada una de las soluciones de los ejercicios.
 
 ## Contenido del Repositorio
-
 Para ver el README de cada uno de los ejercicios, accede a los siguientes enlaces:
 
 * **Ejercicio 1: Huffman Decoding**
@@ -23,3 +24,13 @@ Para ver el README de cada uno de los ejercicios, accede a los siguientes enlace
 * **Ejercicio 2: Is This a Binary Search Tree?**
   * [Directorio del Ejercicio 2](https://github.com/JeremyAs15/ADA_exercises_2/tree/main/exercise2)
   * [README de Is This a Binary Search Tree?](https://github.com/JeremyAs15/ADA_exercises_2/blob/main/exercise2/README.md)
+
+## Ejecutar ejercicios:
+```
+# para ejecutar el ejercicio 1 correr:
+python3 exercise1/main.py 
+
+# para ejecutar el ejercicio 2 correr:
+python3 exercise2/main.py 
+
+```
