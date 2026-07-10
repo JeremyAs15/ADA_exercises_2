@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ADA Ejercicios Parcial 2
 
 Repositorio de soluciones para los ejercicios del segundo parcial de Análisis y Diseño de Algoritmos (ADA).
